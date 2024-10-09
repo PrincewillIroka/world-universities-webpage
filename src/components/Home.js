@@ -17,25 +17,28 @@ const Home = () => {
           <h2 className="text-xl font-semibold text-gray-800 mb-2">Features</h2>
           <ul className="mb-8">
             <li className="text-gray-700 mb-4">
-              Provide users with information about thousands of universities
+              Provides you with information about thousands of universities
               around the world.
             </li>
             <li className="text-gray-700 mb-4">
-              Users can access the official websites of these institutions.
+              You can access the official websites of these institutions.
+            </li>
+            <li className="text-gray-700 mb-4">
+              You can receive notifications when a university starts application
+              for the next term.
             </li>
             <li className="text-gray-700 mb-4">
               Users can add universities to their favourites tab.
             </li>
             <li className="text-gray-700 mb-4">
-              Users can also make suggestions for universities to be added to
-              the app (Note: We'll properly review every suggestion before
-              adding it).
+              You can also make suggestions for universities to be added to the
+              app (Note: We'll properly review every suggestion before adding
+              it).
             </li>
           </ul>
           <p className="text-gray-700 mb-4 text-sm">
-            <b>Disclaimer:</b> This app is intended for informational purposes
-            only, you could still make a proper search online for any
-            information you find here.
+            <b>Note:</b> This app is intended for informational purposes, you
+            can make a proper search online for any information you find here.
           </p>
         </div>
       </div>
